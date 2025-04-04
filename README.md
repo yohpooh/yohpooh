@@ -6,8 +6,7 @@ Software Developer
 
 ## Skills
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="![icons8-angular-96](https://github.com/user-attachments/assets/02bf8b2b-b946-4f67-a525-8f3da1f240b9)
-" width="36" height="36" alt="Angular" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/02bf8b2b-b946-4f67-a525-8f3da1f240b9" width="36" height="36" alt="Angular" /></a>
 </p>
 ![62dec491ff3c6e4b8b5de8db](https://github.com/user-attachments/assets/725941b8-7bf4-49d4-ab1a-eb5ef47a473a =16x16)
 
