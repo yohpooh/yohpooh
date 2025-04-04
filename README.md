@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋![hand-waving-hand](https://github.com/user-attachments/assets/0e2c227d-e9f8-4b3a-85cd-060a4b59d36c)
+
 
 <!--
 **yohpooh/yohpooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
