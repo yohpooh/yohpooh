@@ -1,4 +1,4 @@
-## Hi there 👋![hand-waving-hand](https://github.com/user-attachments/assets/0e2c227d-e9f8-4b3a-85cd-060a4b59d36c)
+## Hi my name is Ram Rainier Masubay Belleza a.k.a. yohpooh <img src="![hand-waving-hand](https://github.com/user-attachments/assets/0e2c227d-e9f8-4b3a-85cd-060a4b59d36c)" width: 16px; height: 16px; ></img>
 
 
 <!--
