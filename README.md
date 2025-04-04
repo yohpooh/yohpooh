@@ -1,4 +1,12 @@
-## Hi! ![hand-waving-hand](https://github.com/user-attachments/assets/e76536c0-8638-4bc7-83a1-d770863967a2 | width=16 height=16) My name is Ram Rainier Masubay Belleza a.k.a. yohpooh.
+## Hi! 👋 My name is Ram Rainier Masubay Belleza a.k.a. yohpooh.
+Software Developer
+🌎 Im based in Philippines
+🖥 See my portfolio [Link Text]
+📧 Message me via email [bramrainier@gmail.com]
+
+## Skills
+![62dec491ff3c6e4b8b5de8db](https://github.com/user-attachments/assets/725941b8-7bf4-49d4-ab1a-eb5ef47a473a =16x16)
+
 
 
 <!--
