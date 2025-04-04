@@ -1,4 +1,4 @@
-## Hi my name is Ram Rainier Masubay Belleza a.k.a. yohpooh <img src="![hand-waving-hand](https://github.com/user-attachments/assets/0e2c227d-e9f8-4b3a-85cd-060a4b59d36c)" width: 16px; height: 16px; ></img>
+## Hi my name is Ram Rainier Masubay Belleza a.k.a. yohpooh <div class="tenor-gif-embed" data-postid="14999877618442267107" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hand-waving-hand-emoji-gif-14999877618442267107">Hand Waving Hand Sticker</a>from <a href="https://tenor.com/search/hand-stickers">Hand Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <!--
