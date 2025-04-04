@@ -26,7 +26,3 @@ Software Developer
   <a href="https://github.com/yohpooh" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cfc4f91e-410a-485c-b766-59fda65a92a1" width="36" height="36" alt="Github" /></a>
 </p>
 
-![gmail]()
-![instagram]()
-![github]()
-![instagram]()
