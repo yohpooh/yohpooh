@@ -1,8 +1,8 @@
 ## Hi! 👋 My name is Ram Rainier Masubay Belleza a.k.a. yohpooh.
 Software Developer
 *  🌎 Im based in Philippines
-*  🖥 See my portfolio []()
-*  📧 Message me via email [bramrainier@gmail.com](mailto:bramrainier@gmail.com)
+*  🖥 See my portfolio: []()
+*  📧 Message me via email: [bramrainier@gmail.com](mailto:bramrainier@gmail.com)
 
 ## Skills
 <p align="left">
