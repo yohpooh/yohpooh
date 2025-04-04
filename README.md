@@ -1,4 +1,4 @@
-## Hi! <img src="https://github.com/user-attachments/assets/bc557440-0389-47e1-affd-692515c10cd9" width="36" height="36"/> My name is Ram Rainier Masubay Belleza a.k.a. yohpooh.
+## Hi! <img src="https://github.com/user-attachments/assets/bc557440-0389-47e1-affd-692515c10cd9" width="20" height="20"/> My name is Ram Rainier Masubay Belleza a.k.a. yohpooh.
 Software Developer
 *  🌎 Im based in Philippines
 *  🖥 See my portfolio: []()
