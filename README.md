@@ -1,4 +1,4 @@
-## Hi my name is Ram Rainier Masubay Belleza a.k.a. yohpooh <img src="https://tenor.com/view/hand-waving-hand-emoji-gif-14999877618442267107" width: 16px; height:16px;></img>
+## Hi my name is Ram Rainier Masubay Belleza a.k.a. yohpooh <img src="https://tenor.com/view/hand-waving-hand-emoji-gif-14999877618442267107" width: 16px; height:16px; />
 
 
 <!--
