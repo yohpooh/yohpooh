@@ -1,7 +1,7 @@
 ## Hi! <img src="https://github.com/user-attachments/assets/bc557440-0389-47e1-affd-692515c10cd9" width="20" height="20"/> My name is Ram Rainier Masubay Belleza a.k.a. yohpooh.
 Software Developer
 *  🌎 Im based in Philippines
-*  🖥 See my portfolio: []()
+*  🖥 See my portfolio: [ramrainierbelleza.netlify.app](https://ramrainierbelleza.netlify.app)
 *  📧 Message me via email: [bramrainier@gmail.com](mailto:bramrainier@gmail.com)
 
 ## Skills
@@ -20,7 +20,7 @@ Software Developer
 
 ## Socials
 <p align="left">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/dc430f04-451e-477e-a5a1-23bf5bcfb5f7" width="36" height="36" alt="Website" /></a>
+  <a href="https://ramrainierbelleza.netlify.app" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/dc430f04-451e-477e-a5a1-23bf5bcfb5f7" width="36" height="36" alt="Website" /></a>
   <a href="mailto:bramrainier@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7cf49dd7-ffac-4a0c-b98c-d8d9f9b8e340" width="36" height="36" alt="Gmail" /></a>
   <a href="https://www.instagram.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/fb9f6737-82ce-4fed-97dc-692d6c4a76bc" width="36" height="36" alt="Instagram" /></a>
   <a href="https://github.com/yohpooh" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cfc4f91e-410a-485c-b766-59fda65a92a1" width="36" height="36" alt="Github" /></a>
