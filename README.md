@@ -16,6 +16,12 @@ Software Developer
   <a href="https://www.qt.io/product/development-tools" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/953578bb-3ec0-4c5c-8524-272441bfb6f3" width="36" height="36" alt="QtCreator" /></a>
   <a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/811bc2cc-de50-4129-b1c0-c3bcb632dd39" width="36" height="36" alt="Delphi" /></a>
   <a href="[https://www.qt.io/product/development-tools](https://www.java.com/en/)" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4eaf4095-0a24-47ba-bab6-b6e3c67c9aa3" width="36" height="36" alt="Java" /></a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9e101c68-20a8-4acc-bb14-6165ff631005" width="36" height="36" alt="MongoDB" /></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ad882689-e89d-4f75-8e1c-31493dce18ff" width="36" height="36" alt="ExpressJS" /></a>
+  <a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/668b9b7b-ece6-466e-bfcd-1567d4c73427" width="36" height="36" alt="Vite" /></a>
+  <a href="https://chakra-ui.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0ddce361-c99b-4737-b4c0-118a476c5596" width="36" height="36" alt="ChakraUI" /></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1da46036-25cd-418e-9960-ef57d297a966" width="36" height="36" alt="React" /></a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/219d4a01-35b0-4c10-b05d-f7c636838969" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
 ## Socials
