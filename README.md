@@ -32,3 +32,8 @@ Software Developer
   <a href="https://github.com/yohpooh" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cfc4f91e-410a-485c-b766-59fda65a92a1" width="36" height="36" alt="Github" /></a>
 </p>
 
+## My Stats
+<div align="center">
+  <img alt="myStats" height="200" src="https://github-readme-stats.vercel.app/api?username=yohpooh&show_icons=true&theme=transparent&rank_icon=github" />
+  <img alt="myTopLanguages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohpooh&layout=compact&&langs_count=8"/>
+</div>
