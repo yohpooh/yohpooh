@@ -7,22 +7,22 @@ Software/Mobile Developer
 ## Skills
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <div style="display: flex; gap: 5px;">
-    <img src="https://github.com/user-attachments/assets/02bf8b2b-b946-4f67-a525-8f3da1f240b9" width="36" height="36" alt="Angular" />
-    <img src="https://github.com/user-attachments/assets/630411d3-09c3-4273-ac41-a2eb1424dc9f" width="36" height="36" alt="Git" />
-    <img src="https://github.com/user-attachments/assets/f4fe7fcc-9c24-4acd-9013-961aaf2741f3" width="36" height="36" alt="TypeScript" />
-    <img src="https://github.com/user-attachments/assets/83129b5e-7596-4b88-8a6d-1f081b7ee6a0" width="36" height="36" alt="Python" />
-    <img src="https://github.com/user-attachments/assets/6469159f-d75c-4d8c-a229-768bb91e1259" width="36" height="36" alt="HTML5" />
-    <img src="https://github.com/user-attachments/assets/d4618d5e-76a0-4efb-a527-db12cd03b5ce" width="36" height="36" alt="CSS3" />
-    <img src="https://github.com/user-attachments/assets/a0a808e5-b878-480f-8ff0-8ddb8714f398" width="36" height="36" alt="JavaScript" />
-    <img src="https://github.com/user-attachments/assets/953578bb-3ec0-4c5c-8524-272441bfb6f3" width="36" height="36" alt="QtCreator" />
-    <img src="https://github.com/user-attachments/assets/811bc2cc-de50-4129-b1c0-c3bcb632dd39" width="36" height="36" alt="Delphi" />
-    <img src="https://github.com/user-attachments/assets/4eaf4095-0a24-47ba-bab6-b6e3c67c9aa3" width="36" height="36" alt="Java" />
-    <img src="https://github.com/user-attachments/assets/9e101c68-20a8-4acc-bb14-6165ff631005" width="36" height="36" alt="MongoDB" />
-    <img src="https://github.com/user-attachments/assets/ad882689-e89d-4f75-8e1c-31493dce18ff" width="36" height="36" alt="ExpressJS" />
-    <img src="https://github.com/user-attachments/assets/668b9b7b-ece6-466e-bfcd-1567d4c73427" width="36" height="36" alt="Vite" />
-    <img src="https://github.com/user-attachments/assets/0ddce361-c99b-4737-b4c0-118a476c5596" width="36" height="36" alt="ChakraUI" />
-    <img src="https://github.com/user-attachments/assets/1da46036-25cd-418e-9960-ef57d297a966" width="36" height="36" alt="React" />
-    <img src="https://github.com/user-attachments/assets/219d4a01-35b0-4c10-b05d-f7c636838969" width="36" height="36" alt="NodeJS" />
+    <img src="https://github.com/user-attachments/assets/02bf8b2b-b946-4f67-a525-8f3da1f240b9"  height="36" alt="Angular" />
+    <img src="https://github.com/user-attachments/assets/630411d3-09c3-4273-ac41-a2eb1424dc9f"  height="36" alt="Git" />
+    <img src="https://github.com/user-attachments/assets/f4fe7fcc-9c24-4acd-9013-961aaf2741f3"  height="36" alt="TypeScript" />
+    <img src="https://github.com/user-attachments/assets/83129b5e-7596-4b88-8a6d-1f081b7ee6a0"  height="36" alt="Python" />
+    <img src="https://github.com/user-attachments/assets/6469159f-d75c-4d8c-a229-768bb91e1259"  height="36" alt="HTML5" />
+    <img src="https://github.com/user-attachments/assets/d4618d5e-76a0-4efb-a527-db12cd03b5ce"  height="36" alt="CSS3" />
+    <img src="https://github.com/user-attachments/assets/a0a808e5-b878-480f-8ff0-8ddb8714f398"  height="36" alt="JavaScript" />
+    <img src="https://github.com/user-attachments/assets/953578bb-3ec0-4c5c-8524-272441bfb6f3"  height="36" alt="QtCreator" />
+    <img src="https://github.com/user-attachments/assets/811bc2cc-de50-4129-b1c0-c3bcb632dd39"  height="36" alt="Delphi" />
+    <img src="https://github.com/user-attachments/assets/4eaf4095-0a24-47ba-bab6-b6e3c67c9aa3"  height="36" alt="Java" />
+    <img src="https://github.com/user-attachments/assets/9e101c68-20a8-4acc-bb14-6165ff631005"  height="36" alt="MongoDB" />
+    <img src="https://github.com/user-attachments/assets/ad882689-e89d-4f75-8e1c-31493dce18ff"  height="36" alt="ExpressJS" />
+    <img src="https://github.com/user-attachments/assets/668b9b7b-ece6-466e-bfcd-1567d4c73427"  height="36" alt="Vite" />
+    <img src="https://github.com/user-attachments/assets/0ddce361-c99b-4737-b4c0-118a476c5596"  height="36" alt="ChakraUI" />
+    <img src="https://github.com/user-attachments/assets/1da46036-25cd-418e-9960-ef57d297a966"  height="36" alt="React" />
+    <img src="https://github.com/user-attachments/assets/219d4a01-35b0-4c10-b05d-f7c636838969"  height="36" alt="NodeJS" />
   </div>
 </div>
 
