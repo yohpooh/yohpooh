@@ -1,10 +1,26 @@
 ## Hi! <img src="https://github.com/user-attachments/assets/bc557440-0389-47e1-affd-692515c10cd9" width="20" height="20"/> My name is Ram Rainier Masubay Belleza a.k.a. yohpooh.
-Software Developer
+Software/Mobile Developer
 *  🌎 Im based in Philippines
 *  🖥 See my portfolio: [ramrainierbelleza.netlify.app](https://ramrainierbelleza.netlify.app)
 *  📧 Message me via email: [bramrainier@gmail.com](mailto:bramrainier@gmail.com)
 
 ## Skills
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+
+  <div style="display: flex; gap: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  </div>
+
+  <div style="display: flex; gap: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  </div>
+
+</div>
+
 <p align="left">
   <a href="https://angular.dev" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/02bf8b2b-b946-4f67-a525-8f3da1f240b9" width="36" height="36" alt="Angular" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/630411d3-09c3-4273-ac41-a2eb1424dc9f" width="36" height="36" alt="Git" /></a>
