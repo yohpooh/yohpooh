@@ -5,7 +5,7 @@ Software Developer
 *  📧 Message me via email: [bramrainier@gmail.com](mailto:bramrainier@gmail.com)
 
 ## Skills
-<p align="left">
+<p align="left" style="display: flex; flex-direction: row;">
   <a href="https://angular.dev" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/02bf8b2b-b946-4f67-a525-8f3da1f240b9" width="36" height="36" alt="Angular" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/630411d3-09c3-4273-ac41-a2eb1424dc9f" width="36" height="36" alt="Git" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f4fe7fcc-9c24-4acd-9013-961aaf2741f3" width="36" height="36" alt="TypeScript" /></a>
