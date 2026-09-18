@@ -4,13 +4,15 @@
 
 ### Ram Rainier Masubay Belleza · a.k.a. **yohpooh**
 
-📍 Philippines &nbsp;•&nbsp; 📱 Mobile & Web &nbsp;•&nbsp; 🛠️ Legacy code whisperer
+📍 Philippines &nbsp;•&nbsp; 📱 Mobile & Web &nbsp;•&nbsp; 💻 Software Developer
 
 <a href="https://ramrainierbelleza.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
 <a href="mailto:bramrainier@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/yohpooh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
 <!-- Replace YOUR_HANDLE with your Instagram username -->
-<a href="https://www.instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<a href="https://www.instagram.com/rmbllz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=yohpooh&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views" />
 
@@ -20,7 +22,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a developer who enjoys turning ideas into products people actually use, from mobile apps to full-stack platforms. I got my start working hands-on with **legacy codebases**, which taught me how to read unfamiliar code, fix things carefully, and ship without breaking what already works.
+I'm a Software Developer who turns ideas into user-centered products, from mobile apps to full‑stack platforms. I focus on practical, maintainable solutions, rapid iteration, and thoughtful UX — building, testing, and shipping features that solve real problems. I enjoy prototyping new ideas, exploring emerging technologies, and improving systems through automation and performance tuning. I also contribute to open-source, mentor junior developers, and collaborate cross-functionally to transform concepts into polished, reliable products.
 
 - 🔭 Currently building **Sundo**, a scheduled ride-booking platform for Philippine motorcycle transport
 - 🎮 Also working on **Tianac**, my own 2D platformer game
@@ -35,13 +37,13 @@ I'm a developer who enjoys turning ideas into products people actually use, from
 
 <!-- Swap each "#" below for the repo or live link when it's ready -->
 
-| Project | What it is | Built with |
-|---|---|---|
-| 🏍️ **[Sundo](#)** | Scheduled, contract-based ride booking for the Philippine motorcycle transport market. A two-sided marketplace for drivers and riders. | React Native, Expo, NestJS, PostgreSQL/PostGIS, Redis, BullMQ, Supabase |
-| 💸 **[Wassub!](#)** | A mobile app that keeps track of all your subscriptions so nothing renews behind your back. | React Native, Expo, Tailwind CSS |
-| 🏛️ **[AryzanAES](#)** | Branding and website for an architecture/design studio. | Vite, React, Tailwind CSS, Framer Motion, Supabase |
-| 🎮 **[Tianac](#)** *(in progress)* | A 2D platformer game I'm currently building. | <!-- add engine/language --> |
-| 💈 **[TrimTrak](#)** | A booking app for barbershops that lets customers reserve their cut ahead of time. | <!-- add stack --> |
+| Project                            | What it is                                                                                                                                                           | Built with                                                              |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 🏍️ **[Sundo](#)**                  | Scheduled, contract-based ride booking for the Philippine motorcycle transport market — currently under development. A two-sided marketplace for drivers and riders. | React Native, Expo, NestJS, PostgreSQL/PostGIS, Redis, BullMQ, Supabase |
+| 💸 **[Wassub!](#)**                | A mobile app that keeps track of all your subscriptions so nothing renews behind your back.                                                                          | React Native, Expo, Tailwind CSS                                        |
+| 🏛️ **[AryzanAES](#)**              | Branding and website for an architecture/design studio.                                                                                                              | Vite, React, Tailwind CSS, Framer Motion, Supabase                      |
+| 🎮 **[Tianac](#)** _(in progress)_ | A 2D platformer game I'm currently building. Art and animations created with Aseprite; game engine: Godot.                                                           | Aseprite, Godot                                                         |
+| 💈 **[TrimTrak](#)**               | A booking app for barbershops that lets customers reserve their cut ahead of time (same stack as Wassub!).                                                           | React Native, Expo, Tailwind CSS                                        |
 
 ---
 
