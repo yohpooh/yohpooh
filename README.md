@@ -39,11 +39,11 @@ I'm a Software Developer who turns ideas into user-centered products, from mobil
 
 | Project                            | What it is                                                                                                                                                           | Built with                                                              |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 🏍️ **[Sundo](#)**                  | Scheduled, contract-based ride booking for the Philippine motorcycle transport market — currently under development. A two-sided marketplace for drivers and riders. | React Native, Expo, NestJS, PostgreSQL/PostGIS, Redis, BullMQ, Supabase |
+| 🏍️ **[Sundo](#)** _(in progress)_  | Scheduled, contract-based ride booking for the Philippine motorcycle transport market — currently under development. A two-sided marketplace for drivers and riders. | React Native, Expo, NestJS, PostgreSQL/PostGIS, Redis, BullMQ, Supabase |
 | 💸 **[Wassub!](#)**                | A mobile app that keeps track of all your subscriptions so nothing renews behind your back.                                                                          | React Native, Expo, Tailwind CSS                                        |
 | 🏛️ **[AryzanAES](#)**              | Branding and website for an architecture/design studio.                                                                                                              | Vite, React, Tailwind CSS, Framer Motion, Supabase                      |
-| 🎮 **[Tianac](#)** _(in progress)_ | A 2D platformer game I'm currently building. Art and animations created with Aseprite; game engine: Godot.                                                           | Aseprite, Godot                                                         |
-| 💈 **[TrimTrak](#)**               | A booking app for barbershops that lets customers reserve their cut ahead of time (same stack as Wassub!).                                                           | React Native, Expo, Tailwind CSS                                        |
+| 🎮 **[Tianac](#)** _(in progress)_ | A 2D platformer game I'm currently building.                                                                                                                         | Aseprite, Godot                                                         |
+| 💈 **[TrimTrak](#)**               | A booking app for barbershops that lets customers reserve their cut ahead of time .                                                                                  | React Native, Expo, Tailwind CSS                                        |
 
 ---
 
